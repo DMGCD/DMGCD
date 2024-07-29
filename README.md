@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gayan Chathuranga</h1>
 <h3 align="center">A passionate Backend developer from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmgcd&label=Profile%20views&color=0e75b6&style=flat" alt="dmgcd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dmgcd&label=Profile%20views&color=0e75b6&style=flat" alt="dmgcd" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
